@@ -1,19 +1,12 @@
-# Notas:
+# El proyecto inicia en produccion con:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
-
-Luego, para correr en producción
-```
+`
 npm start
-```
+`
 
-Para correr en desarrollo
-```
+y en desarrollo con:
+
+
+`
 npm run dev
-```
+`
